@@ -1,0 +1,2 @@
+# SlothLite
+Company Management System
