@@ -31,7 +31,7 @@ Svaki zaposleni pripada jednom ili više **timova**. Tim ima naziv, opis i **tea
 
 **Klijent** se karakteriše nazivom kompanije, kontakt osobom, emailom i adresom. Jedan klijent može imati više projekata, a svaki projekt pripada tačno jednom klijentu.
 
-**Projekt** ima naziv, opis, datum početka, planirani datum završetka i status (aktivan, pauziran, završen). Na projektu može raditi više timova, a svaki tim može biti angažovan na više projekata istovremeno.
+**Projekat** ima naziv, opis, datum početka, planirani datum završetka i status (aktivan, pauziran, završen). Na projektu može raditi više timova, a svaki tim može biti angažovan na više projekata istovremeno.
 
 Zaposleni beleže svoja dnevna **ostvarenja** (realizacije) gde specificiraju na kom projektu su radili, koliko vremena su utrošili, opis aktivnosti i datum. Ostvarenje pripada jednom zaposlenom i vezano je za jedan projekat.
 
